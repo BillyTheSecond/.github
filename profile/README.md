@@ -11,4 +11,6 @@ I've started my journey focusing on web development starting as a freelancer sin
 
 Now I am focusing on learning new cybersecurity skills starting with the setup, use and securing of physical infrastructure with some work for me and within my school's <a href="https://insash.org/les-membres/TuperWar2.0" target="_blank">IT Club ./insa.sh</a>. I'm also looking into challenging myself with some CTF since i've already been involved in the creation process of the ./insa.sh CTF.
 
+As a 3rd year student, i am looking for a 4-month internship in Cybersecurity/Networks starting Septembre 2026
+
 Feel free to contact me via my <a href="https://www.linkedin.com/in/louisonbednarowicz" target="_blank">LinkedIn Profile</a> or to explore my public projects !
